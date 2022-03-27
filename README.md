@@ -100,4 +100,4 @@ webpmux -version
 
 # Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xinz-Team`](https://github.com/X-NoneTeam)
+* [`X-None Team`](https://github.com/X-NoneTeam)
