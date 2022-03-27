@@ -56,6 +56,14 @@ npm install
 npm start
 ```
 
+### Buildpack For Heroku
+```
+> heroku/nodejs
+> https://github.com/xdlyy404/heroku-buildpack-ffmpeg-latest
+> https://github.com/xdlyy404/heroku-buildpack-webp-binaries
+> https://github.com/xdlyy404/heroku-buildpack-imagemagick
+```
+
 ## Installing the FFmpeg for Windows
 * Unduh salah satu versi FFmpeg yang tersedia dengan mengklik [di sini](https://www.gyan.dev/ffmpeg/builds/).
 * Extract file ke `C:\` path.
@@ -70,7 +78,6 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```cmd
 > ffmpeg -version
 ```
-
 
 ## Installing the libwebp for Windows
 * Unduh salah satu versi libwebp yang tersedia dengan mengklik [di sini](https://developers.google.com/speed/webp/download).
