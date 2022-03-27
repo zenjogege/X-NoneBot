@@ -70,10 +70,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xdlyy404/BaseNew.git"
+    "url": "git+https://github.com/xdlyy404/X-NoneBot.git"
   },
   "bugs": {
-    "url": "https://github.com/xdlyy404/BaseNew/issues"
+    "url": "https://github.com/xdlyy404/X-NoneBot/issues"
   },
-  "homepage": "https://github.com/xdlyy404/BaseNew#readme"
+  "homepage": "https://github.com/xdlyy404/X-NoneBot#readme"
 }
