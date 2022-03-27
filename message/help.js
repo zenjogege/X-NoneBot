@@ -65,7 +65,6 @@ ${runtime(process.uptime())}
 • ${prefix}ytsearch
 • ${prefix}pinterest
 • ${prefix}groupsearch
-• ${prefix}lyrics
 
 ( 🐆 ) *Rpg Menu*
 • ${prefix}joinrpg
